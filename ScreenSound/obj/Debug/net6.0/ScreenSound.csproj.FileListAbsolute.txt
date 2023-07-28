@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Material de Estudos da Fatec\T.I\C#\ATIVIDADES (ENUNCIADOS)\ScreenSound\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
